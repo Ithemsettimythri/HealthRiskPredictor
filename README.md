@@ -206,9 +206,11 @@ Low BP/Sugar automatically indicates **Hypotension / Hypoglycemia**.
 
 👩‍💻 Developer Info
 
-**Developed by:** *Nayana Basava*
-**Project Title:** *AI-Based Health Risk Prediction System*
-**Domain:** Artificial Intelligence & Healthcare
+👩‍💻 Developer Info
+
+**Developed by:** *Mythri Ithemsetti*  
+**Project Title:** *AI-Based Health Risk Prediction System*  
+**Domain:** Artificial Intelligence & Healthcare  
 **Year:** 2025
 
 © 2025 — *All Rights Reserved.*
